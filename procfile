@@ -1,1 +1,1 @@
-web: gunicorn k2.wsgi --log-file -
+web: gunicorn ritesh.wsgi --log-file -
